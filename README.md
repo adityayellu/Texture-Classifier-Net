@@ -1,3 +1,3 @@
-# neural-translation
+# Texture Classifier
 
-Translation project
+Providing the user with multi-label descriptors of textures from images
